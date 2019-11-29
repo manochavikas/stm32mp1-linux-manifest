@@ -6,4 +6,7 @@
   <default remote="OpenSTLinux"/>
   
   <project name="arm-trusted-firmware" path="arm-trusted-firmware" revision="master"/>
+  <project name="u-boot" path="u-boot" revision="master"/>
+  <project name="linux" path="linux" revision="master"/>
+  <project name="optee_os" path="optee_os" revision="master"/>
 </manifest>
