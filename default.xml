@@ -5,8 +5,21 @@
   
   <default remote="OpenSTLinux"/>
   
-  <project name="arm-trusted-firmware" path="arm-trusted-firmware" revision="master"/>
-  <project name="u-boot" path="u-boot" revision="master"/>
-  <project name="linux" path="linux" revision="master"/>
-  <project name="optee_os" path="optee_os" revision="master"/>
+  <project name="STM32CubeF0" path="STM32CubeF0" revision="master"/>
+  <project name="STM32CubeF1" path="STM32CubeF1" revision="master"/>
+  <project name="STM32CubeF2" path="STM32CubeF2" revision="master"/>
+  <project name="STM32CubeF3" path="STM32CubeF3" revision="master"/>
+  <project name="STM32CubeF4" path="STM32CubeF4" revision="master"/>
+  <project name="STM32CubeF7" path="STM32CubeF7" revision="master"/>
+
+  <project name="STM32CubeG0" path="STM32CubeG0" revision="master"/>
+  <project name="STM32CubeG4" path="STM32CubeG4" revision="master"/>
+
+  <project name="STM32CubeH7" path="STM32CubeH7" revision="master"/>
+
+  <project name="STM32CubeL0" path="STM32CubeL0" revision="master"/>
+  <project name="STM32CubeL1" path="STM32CubeL1" revision="master"/>
+  <project name="STM32CubeL4" path="STM32CubeL4" revision="master"/>
+
+  <project name="STM32CubeWB" path="STM32CubeWB" revision="master"/>
 </manifest>
