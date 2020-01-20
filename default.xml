@@ -20,6 +20,7 @@
   <project name="STM32CubeL0" path="STM32CubeL0" revision="master"/>
   <project name="STM32CubeL1" path="STM32CubeL1" revision="master"/>
   <project name="STM32CubeL4" path="STM32CubeL4" revision="master"/>
+  <project name="STM32CubeL5" path="STM32CubeL5" revision="master"/>
 
   <project name="STM32CubeWB" path="STM32CubeWB" revision="master"/>
 </manifest>
