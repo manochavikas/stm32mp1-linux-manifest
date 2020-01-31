@@ -23,4 +23,6 @@
   <project name="STM32CubeL5" path="STM32CubeL5" revision="master"/>
 
   <project name="STM32CubeWB" path="STM32CubeWB" revision="master"/>
+
+  <project name="cmsis_core" path="cmsis_core" revision="master"/>
 </manifest>
